@@ -1,0 +1,4 @@
+2015-03-28T01:51:20.592Z - info: ::1 - - [Sat, 28 Mar 2015 01:51:20 GMT] "GET /css/bootstrap.css/ HTTP/1.1" 404 31 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+2015-03-28T01:51:20.613Z - info: ::1 - - [Sat, 28 Mar 2015 01:51:20 GMT] "GET /css/font-awesome.css/ HTTP/1.1" 404 34 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+2015-03-28T01:51:27.640Z - info: ::1 - - [Sat, 28 Mar 2015 01:51:27 GMT] "GET /api/user HTTP/1.1" 200 19 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+2015-03-28T01:51:28.187Z - info: ::1 - - [Sat, 28 Mar 2015 01:51:28 GMT] "GET /api/jsonp/https://api.npmjs.org/downloads/point/last-week/generator-beardme HTTP/1.1" 200 86 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
